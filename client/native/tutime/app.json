@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tutime",
+    "slug": "tutime",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
